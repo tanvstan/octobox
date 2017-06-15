@@ -1,4 +1,0 @@
-blue_octocat.txt
-octocat.txt
-octofamily
-red_octocat.txt
